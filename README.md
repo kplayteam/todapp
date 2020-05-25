@@ -1,4 +1,4 @@
-# Todapp! Another todo app with coller name!
+# Todapp! Another todo app with a cooler name!
 
 This project challenge was created to evaluate the skills of candidates, applying for a *Full Stack Developer* position.
 The candidates should create a simple Todo app, showcasing their abilities to build, structure, and deploy the application. It's not about the todo app itself, it's about architecture, style, and engineering skills. 
@@ -44,7 +44,7 @@ Follow serverless / microservices design using one of the following technologies
 * AWS (Recommended)
 * MongoDB Stitch
 * Firebase
-* GCP\
+* GCP
 
 **Database**\
 For the database, you can try one of the following items: 
