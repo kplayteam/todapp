@@ -1,4 +1,4 @@
-# todo-100
+# Todapp! Another todo app with coller name!
 
 This project challenge was created to evaluate the skills of candidates, applying for a *Full Stack Developer* position.
 The candidates should create a simple Todo app, showcasing their abilities to build, structure, and deploy the application. It's not about the todo app itself, it's about architecture, style, and engineering skills. 
@@ -63,11 +63,17 @@ You may try one of the following platforms:
 * GCP
 * Heroku
 
+**And..**
+* Setup a nice CD/CI.
+* Fork this repository, checkout `dev` branch, when you are done and then send a pull request.
+* Do not forget to share with us the demo link for you running Todapp.
+
 _Remember we are looking at your experience in building scalable apps, so utilizing docker containers, load balancers, and other techniques are suggested._
 
 
 **BONUS**\
 Things below add bonus points:
+* Setup CD/CI 
 * PWA
 * Using GraphQL
 * Establish a Cache layer using Redis or Memcached
