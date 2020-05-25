@@ -52,8 +52,6 @@ For the database, you can try one of the following items:
 * AWS DynamoDB
 * Firebase
 
-Remember we are looking at your experience in building scalable apps, so utilizing docker containers, load balancers, and other techniques are suggested.
-
 **Documentation**\
 You are required to illustrate your system design and cloud architecture within a conceptual diagram.
 
@@ -64,6 +62,9 @@ You may try one of the following platforms:
 * MongoDB Stitch (Atlas)
 * GCP
 * Heroku
+
+_Remember we are looking at your experience in building scalable apps, so utilizing docker containers, load balancers, and other techniques are suggested._
+
 
 **BONUS**\
 Things below add bonus points:
