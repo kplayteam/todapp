@@ -45,6 +45,8 @@ Follow serverless / microservices design using one of the following technologies
 * MongoDB Stitch
 * Firebase
 * GCP\
+
+**Database**\
 For the database, you can try one of the following items: 
 * MongoDB
 * AWS DynamoDB
