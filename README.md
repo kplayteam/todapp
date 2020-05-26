@@ -3,11 +3,6 @@
 This project challenge was created to evaluate the skills of candidates, applying for a *Full Stack Developer* position.
 The candidates should create a simple Todo app, showcasing their abilities to build, structure, and deploy the application. It's not about the todo app itself, it's about architecture, style, and engineering skills. 
 
-## Getting Started
-
-All the requirements to complete this project are listed below. You can also watch the video for more details.
-https://drive.google.com/open?id=1Sx0L-U-P-OOxyDSiOvpExXsMVPp-KAFY
-
 ## Requirements
 
 You are required to build a scalable and responsive ReactJS Todo app and deploy it on AWS following microservices architecture using ECS.
@@ -28,13 +23,13 @@ You are free to choose between Firebase OR Amplify to manage authentication usin
 
 **User Interface Functionalities**
 * Create task
-* Assign task (Ask for another user Gmail account, and send a realtime notification to the assignee)
+* [Optional] Assign task (Ask for another user Gmail account, and send a realtime notification to the assignee)
 * Remove task
 * Update task
 * Delete task
 
 **Real-time Notifications**\
-You are free to choose one of the following approaches:
+In case you are developing the tast assignment thet you need to think of this section. You are free to choose one of the following approaches:
 * Amplify (Recommended)
 * PusherJS
 * Firebase
@@ -72,7 +67,7 @@ _Remember we are looking at your experience in building scalable apps, so utiliz
 
 
 **BONUS**\
-Things below add bonus points:
+Things below are optional add bonus points:
 * Setup CD/CI 
 * PWA
 * Using GraphQL
@@ -82,6 +77,10 @@ Things below add bonus points:
   * https://swagger.io/tools/swagger-ui/
   * Readme.io
   * Or any other tools
+
+An overview of above points are available through the following video:
+https://drive.google.com/open?id=1Sx0L-U-P-OOxyDSiOvpExXsMVPp-KAFY
+
 
 HAVE FUN! 😉
 
